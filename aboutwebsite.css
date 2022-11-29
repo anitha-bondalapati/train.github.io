@@ -1,0 +1,18 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/fading-blue-background_53876-88684.jpg?w=740&t=st=1669315500~exp=1669316100~hmac=142c9ada4dba1e5cd920f5aee65d52a2b1317d748e67f61c01f24eaec83e7c1f");
+    height: 200vh;
+    width: 100vw;
+    background-size: cover;
+}
+.heading{
+    padding-top:15px ;
+    font-weight: bold;
+}
+.image{
+    padding-top: 25px;
+}
+.paraline{
+    padding-top: 25px;
+    color: white;
+    font-size: 25px;
+}

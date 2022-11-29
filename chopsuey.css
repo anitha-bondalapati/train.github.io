@@ -1,0 +1,42 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/premium-photo/bright-orange-background_23-2147992744.jpg?size=626&ext=jpg&ga=GA1.2.1587188681.1668489810&semt=sph");
+    height: 110vh;
+    background-size: cover;
+}
+.hollis3{
+    background-color:lightseagreen;
+    width: 250px;
+    border-radius: 15px;
+    padding: 15px;
+    height: 420px;
+    text-align: center;
+    margin: 15px;
+}
+.hollis3:hover{
+    background-color:violet;
+}
+.imageres1{
+    padding-top: 50PX;
+    text-align: right;
+    height: 200px;
+    width: 180px;
+    border: none;
+}
+
+.holliheadings{
+    color: darkblue;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+.holliparas{
+    font-weight: normal;
+}
+.holliparas1{
+    float: left;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+.btn{
+    padding-bottom: 10px;
+}

@@ -1,0 +1,340 @@
+.stylinglogo{
+    width: 160px;
+    height: 70px;
+    padding: 5px;
+
+}
+/*#gool{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border: 0px;
+}*/
+#go {
+    background-color: white;
+    color:black;
+    padding: 5px 15px;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+    margin: 10px;
+
+}
+#go:hover{
+    background-color:aliceblue;
+    color: blueviolet;
+    border: 0px;
+}
+.btn{
+    font-size: 25px;
+    padding: 5px;
+    
+}
+.bgimg1{
+    background-image: url("https://d4t7t8y8xqo0t.cloudfront.net/resized/750X436/eazytrendz%2F2947%2Ftrend20200930101748.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.head1{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paraline{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+}
+.buttonst{
+    color: white;
+    background-color: red;
+    width: 230px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.bgcolor2{
+    background-color: white;
+}
+.head2{
+    color: #183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 750;
+    text-align: center;
+}
+.para2{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+.carding{
+    text-align: center;
+    background-color: aliceblue;
+    border-style: solid;
+    border-width: 1px;
+    border-color: azure;
+    border-radius: 16px;
+}
+.carding:hover{
+    background-color: aquamarine;
+}
+.cardimage{
+    width: 250px;
+    height: 300px;
+    padding: auto;
+}
+.chead{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 16px;
+    padding-top: 15px;
+    font-weight: bold;
+}
+.cpara{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-top: 15px;
+}
+.cpara1{
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+}
+.offers{
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.hollicardbottom{
+    
+    height: 100vh;
+    width: 300vw;
+}
+.imageres{
+    float: left;
+    padding-top: 250PX;
+    padding-bottom: 76px;
+    height: 850px;
+    width: 520px;
+}
+.holliheading{
+    float: left;
+    padding-left: 170px;
+    padding-top: 150px;
+    color: darkblue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    padding-bottom: 80px;
+}
+.holliheadings{
+    float: left;
+    padding-left: 200px;
+    padding-top: 270px;
+    color: darkblue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    padding-bottom: 20px;
+}
+.hollipara1{
+    color: darkorange;
+    padding-top: 180px;
+    padding-right: 300px;
+    font-size: 25px;
+    text-align: right;
+    font-weight: bold;
+    padding-bottom: 40px;
+    
+}
+.hollipara2{
+    color: chocolate;
+    padding-top: 170px;
+    padding-right: 300px;
+    font-size: 25px;
+    text-align: right;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.para4{
+    font-weight: 10px;
+    color:black;
+    font-size: 24px;
+}
+.para5{
+    font-weight: 10px;
+    color: black;
+    font-size: 25px;
+}
+
+.hollipara12{
+    color: darkorange;
+    padding-top: 5px;
+    padding-right: 300px;
+    font-size: 25px;
+    text-align: right;
+    font-weight: bold;
+    
+}
+
+.hollipara{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+.headscroll{
+    padding-top: 200px;
+}
+/*explore section */
+
+.bgimgg3{
+    background-color: white;
+}
+.restaurenthead{
+    text-align: center;
+    color:darkorchid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight:bold;
+    padding-top: 160px;
+    padding-bottom: 70px;
+}
+.reataurentcards{
+    border-radius: 16px;
+}
+.restaurentcards:hover{
+    background-color:lightgreen;
+}
+.restaurentimage{
+    border-radius: 16px;
+    height: 250px;
+}
+.cardhead4{
+    color:#323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+.restaurentlink{
+    color: #c90202;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+
+    
+}
+.paybgimg{
+    background-color: white;
+}
+.respaymenting{
+    width: 350px;
+}
+.payhead{
+    color:#183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+.paypara{
+    color: #5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.cstbutton{
+    color: white;
+    background-color: red;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.paycardimg{
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+.imageres1{
+    float: left;
+    padding-top: 30PX;
+    padding-bottom: 256px;
+    height: 850px;
+    width: 580px;
+}
+.hollipara2{
+    color: darkorange;
+    padding-top: 180px;
+    padding-right: 300px;
+    font-size: 21px;
+    text-align: right;
+    font-weight: bold;
+    padding-bottom: 40px;
+    
+}
+#contact{
+    background-color: #5a7184;
+    padding-bottom: 5rem;
+}
+.contacthead{
+    font-size: 40px;
+    color: red;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Style the container/contact section */
+  .container {
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+  }
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  

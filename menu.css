@@ -1,0 +1,22 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-vector/green-sand-paper_53876-86281.jpg?size=626&ext=jpg&ga=GA1.2.1587188681.1668489810&semt=sph");
+    height: 250vh;
+    width: 100vw;
+    background-size: cover;
+}
+.heading{
+    padding-top:15px ;
+    font-weight: bold;
+}
+.image{
+    padding-top: 25px;
+}
+.paraline1{
+    padding-top: 25px;
+    color: red;
+    font-size: 45px;
+    text-align: center;
+}
+.btn{
+    font-size: 30px;
+}

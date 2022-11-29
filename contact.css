@@ -1,0 +1,21 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/premium-photo/light-blue-gradient-abstract-banner-background_8087-1851.jpg?size=626&ext=jpg&ga=GA1.2.1587188681.1668489810&semt=sph");
+    height: 200vh;
+    width: 100vw;
+    background-size: cover;
+}
+.form-group{
+    width: 500px;
+    border: none;
+}
+.form-row{
+    padding-top:25px ;
+    width: 500px;
+    border: none;
+}
+.heading{
+    font-size: 45px;
+}
+.paraline{
+    font-size: 25px;
+}
